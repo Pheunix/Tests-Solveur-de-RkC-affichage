@@ -22,7 +22,8 @@ Si Button
 
 Etat de réflexion du solveur (petits yeux) 
 
-Algorithme pour résoudre le cube avec animation (grise ou celle de base (résolu) quand la disposition des faces n’est pas connue) + vision de la caméra pendant la phase de repérage en même temps que l’animation du cube se mets à jour 
+Algorithme pour résoudre le cube avec animation (grise ou celle de base (résolu) quand la disposition des faces n’est pas connue) 
++ vision de la caméra pendant la phase de repérage en même temps que l’animation du cube se mets à jour 
 
 Phrase explicative de la phase actuelle de résolution 
 
