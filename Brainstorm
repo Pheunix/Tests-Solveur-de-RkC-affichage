@@ -1,5 +1,33 @@
-page principale
+Tjs là : 
 
-<titre>
+Smiley 
 
-button x2-3
+Sigle Adi 
+
+Ref du solveur 
+
+Animation du cube 
+
+ 
+
+Si Button 
+
+ - B1 : algorithme 
+
+ - B2 : vision de la caméra 
+
+ - B3 : QR code et indications 
+
+ 
+
+Etat de réflexion du solveur (petits yeux) 
+
+Algorithme pour résoudre le cube avec animation (grise ou celle de base (résolu) quand la disposition des faces n’est pas connue) + vision de la caméra pendant la phase de repérage en même temps que l’animation du cube se mets à jour 
+
+Phrase explicative de la phase actuelle de résolution 
+
+Sigle Adimaker (dans un coin) 
+
+Titre : type de solveur (3x3x3)  
+
+Indications sur les boutons (genre pour QR code menant à nos documents) 
